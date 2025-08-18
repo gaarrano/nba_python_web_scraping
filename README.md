@@ -17,6 +17,7 @@ python NBA_web_scraping.py
 ## Output
 - Charts saved to the `Charts/` folder
 - Example image: `team_shooting_chart.png`
+- See also: **Gabriel Arrano Data Report.pdf** for a full written analysis and methodology behind the scraping and analytics.
 
 ## Repo Structure (short)
 ```
@@ -29,7 +30,9 @@ python NBA_web_scraping.py
 ├── TeamTraditionalStats2021_22.xlsx
 ├── TeamAdvancedStats2020_21.xlsx
 ├── TeamAdvancedStats2021_22.xlsx
-└── team_shooting_chart.png
+├── team_shooting_chart.png
+├── Gabriel Arrano Data Report.pdf
+└── README.md
 ```
 
 ## Author
